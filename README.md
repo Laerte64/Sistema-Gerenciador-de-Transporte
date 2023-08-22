@@ -1,4 +1,4 @@
-# Sumário Executivo: Sistema de Gerenciamento de Transporte
+# Sistema de Gerenciamento de Transporte
 
 O "Sistema de Gerenciamento de Transporte" é um projeto para a disciplina de programação orientada objeto que tem como objetivo proporcionar aos usuários uma solução abrangente para agendar e gerenciar suas viagens de transporte público e privado. Este sistema visa simplificar a vida dos usuários, oferecendo uma plataforma centralizada para agendar viagens em uma variedade de modos de transporte, incluindo ônibus, trens, táxis e carros compartilhados.
 
